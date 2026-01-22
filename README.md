@@ -4,7 +4,7 @@ The goal of the project is to develop a behavioral analytics system for identify
 
 ## Repository contents
 
-- **Report (PDF):** [`Test_assessment_report.pdf`](./Test_assesment_report.pdf)  
+- **Report (PDF):** [`Test_assessment_report.pdf`](./Test_assessment_report.pdf)  
   Project description, methodology, experiments, and results.
 
 - **Final predictions / submission file:** [`submission.csv`](./submission.csv)  
